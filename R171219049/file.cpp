@@ -2,5 +2,6 @@
 #include<conio.h>
 void main()
 {
-	getch()
+k=i+j;
+getch()
 }
