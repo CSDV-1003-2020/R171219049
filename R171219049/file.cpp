@@ -4,12 +4,13 @@ void main()
 {
 <<<<<<< HEAD
 k=i+j;
-getch()
+getch();
+cout<<"sum:"<<k;
 =======
 	int i, j,k;
 	cout<<"enter the numbers:";
 	cin>>i>>j;
-	getch()
+	
 	
 
 >>>>>>> test
