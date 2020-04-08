@@ -4,8 +4,9 @@ void main()
 {
 <<<<<<< HEAD
 k=i+j;
-getch();
+
 cout<<"sum:"<<k;
+getch();
 =======
 	int i, j,k;
 	cout<<"enter the numbers:";
