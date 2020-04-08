@@ -2,16 +2,15 @@
 #include<conio.h>
 void main()
 {
+int i, j,k;
+cout<<"enter the numbers:";
+cin>>i>>j;
+>>>>>>> test
+
 <<<<<<< HEAD
 k=i+j;
-getch();
 cout<<"sum:"<<k;
+getch();
 =======
-	int i, j,k;
-	cout<<"enter the numbers:";
-	cin>>i>>j;
-	
-	
 
->>>>>>> test
 }
