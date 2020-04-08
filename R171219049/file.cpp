@@ -12,7 +12,10 @@ getch();
 	cout<<"enter the numbers:";
 	cin>>i>>j;
 	
+<<<<<<< HEAD
 	
+=======
+>>>>>>> test
 
 >>>>>>> test
 }
